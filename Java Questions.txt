@@ -1,0 +1,57 @@
+JAVA:
+
+Design Patterns
+Core Java, Spring, Webservices
+Internal Working oh hashmap ?
+Difference between concurrent hashmap and hashmap ?
+Java 8 features and flatmap ?
+Different types of lock ?
+Authorization and authentication in my project
+1. What New Features Were Added in Java 8?
+2. How Streams differ from collections?
+3. What is the use of Functional Interface in Java 8? When to use Functional Interface in Java 8?
+4. What is the need of static method in Interface ?
+5. What is the need of having a default method in an interface ?
+6. What is Lambda Expression in Java 8
+7. What is Method Reference in Java 8?
+8. What are different types of Method References in Java 8?
+9. Why to use Optional in Java 8?
+10. What is Optional in Java 8?
+
+Please follow below link to find the answers of these questions :
+Top 20 interview questions on Java 8 feature - https://onlyfullstack.blogspot.com/2019/07/java-8-feature-interview-questions.html
+
+Please follow below url to find Java 8 Lambda questions - https://onlyfullstack.blogspot.com/2019/08/java-8-lambda-expression-interview.html
+
+Please follow below url to find Java 8 programming questions :
+Top 10 programming questions asked on Java 8 features - https://onlyfullstack.blogspot.com/2019/07/java-8-programming-interview-questions.html
+
+Written Test :: topics from core JAVA,Spring,Hibernate,Junits,Spring Boot.
+Technical Round :
+1.which one to choose : static or singleton pattern.
+2. need to overload any method . will it not create confusion with the names.
+3. what is cyclic dependency.Impact of cyclic dependency on applcation.
+how to get rid of it?
+4.describe any design pattern .why chose that pattern and its advantages
+5.what is is-a and has-has a relationship
+6.write code for singleton pattern.
+
+1. Could you describe your recent project. (Architecture, role), What was most difficult during development.
+2. If we have static method in class, is it thread safe?
+3. How can you assess your java knowledge? from 1 to 10
+4. Java memory management
+5. write method that will reverse string
+6. We have a in-bound and out-bound queue and between is a multithreaded logic that threads take a messages from in-bound queue and write to outbound queue. Propose solution that messages from outbound queue will be available in he same order as data in in-bound queue
+7. Then he told me about 2 roles avilable in the bank, and asked me which one I prefer and why.
+
+Data Structures,Immutability,Hashing,Comparator
+
+asked mostly on multi threading and collections
+
+Find missing element in list of array
+
+Data base query optimization
+
+Finding duplicate numbers in array
+
+hey asked about Multithread concepts, ThreadPool, Asserting, JDBC, Hibernate advantages and mapping configuration.
